@@ -1,0 +1,38 @@
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font: bold;
+}
+.self{
+    height: 56px;
+    width: 1060px;
+    padding-left: 15px;
+    border-radius: 4px;
+    background-color: #5dc2a7;
+}
+h3{
+    font-family: 'Open Sans', sans-serif;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-size:15px;
+}
+.small{
+    width: 1060px;
+    margin-top: 10px ;
+    margin-bottom: 10px ;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 15px;
+    border-radius: 4px;
+    background-color: #f0ecec;
+}
+ol{
+    list-style-type: upper-roman;
+    list-style-position: outside;
+}
+.link{
+    list-style-image: url("./1.jpg");
+}
+#sma{
+    list-style-type: decimal;
+}
